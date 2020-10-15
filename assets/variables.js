@@ -4,7 +4,7 @@ const variables = {
     day: "Good Day",
     afternoon: "Good Afternoon",
     evening: "Good Evening",
-    night: "Good Night",
+    night: "Good Night Bby",
   },
   quotes: [
     { quote: "I'm sorry for loving you.", author: "standinhsd" },
